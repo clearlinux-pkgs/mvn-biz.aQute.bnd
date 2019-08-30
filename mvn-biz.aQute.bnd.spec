@@ -4,7 +4,7 @@
 #
 Name     : mvn-biz.aQute.bnd
 Version  : 1
-Release  : 1
+Release  : 2
 URL      : https://repo.maven.apache.org/maven2/biz/aQute/bnd/biz.aQute.bnd/4.0.0/biz.aQute.bnd-4.0.0.jar
 Source0  : https://repo.maven.apache.org/maven2/biz/aQute/bnd/biz.aQute.bnd/4.0.0/biz.aQute.bnd-4.0.0.jar
 Source1  : https://repo.maven.apache.org/maven2/biz/aQute/bnd/biz.aQute.bnd/4.0.0/biz.aQute.bnd-4.0.0.pom
